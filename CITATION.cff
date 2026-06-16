@@ -7,11 +7,11 @@ authors:
     orcid: https://orcid.org/0009-0005-0561-150X
     website: https://github.com/jhbravo
     affiliation: Stevens Institute of Technology
-  - family-names: Rose
-    given-names: Brian E. J.
-    orcid: https://orcid.org/0000-0002-9961-3821 # optional
-    website: https://github.com/brian-rose # optional
-    affiliation: University at Albany (State University of New York) # optional
+  - family-names: Condo
+    given-names: Bella
+    orcid: https://orcid.org/0009-0000-0688-7077
+    website: https://github.com/bmcondo
+    affiliation: Texas A&M University
   - name: "MPAS Viewer Cookbook contributors" # use the 'name' field to acknowledge organizations
     website: "https://github.com/ProjectPythia/mpasviewer-cookbook/graphs/contributors"
 title: "MPAS Viewer Cookbook"
