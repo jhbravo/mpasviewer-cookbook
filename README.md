@@ -29,8 +29,8 @@ The development of this Pythia cookbook is motivated by the need to make MPAS-Vi
 
 ### Contributors
 
-<a href="https://github.com/ProjectPythia/cookbook-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ProjectPythia/cookbook-template" />
+<a href="https://github.com/ProjectPythia/mpasviewer-cookbook/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ProjectPythia/mpasviewer-cookbook" />
 </a>
 
 ## Structure

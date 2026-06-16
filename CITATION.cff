@@ -13,6 +13,6 @@ authors:
     website: https://github.com/brian-rose # optional
     affiliation: University at Albany (State University of New York) # optional
   - name: "MPAS Viewer Cookbook contributors" # use the 'name' field to acknowledge organizations
-    website: "https://github.com/ProjectPythia/cookbook-template/graphs/contributors"
+    website: "https://github.com/ProjectPythia/mpasviewer-cookbook/graphs/contributors"
 title: "MPAS Viewer Cookbook"
 abstract: "This repository provides examples of how to use MPAS-Viewer, a Python package for efficient visualization of Model for Prediction Across Scales (MPAS) data based on the Spherical Centroidal Voronoi Tessellation (SCVT) mesh."
