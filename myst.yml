@@ -3,19 +3,19 @@ version: 1
 extends:
   - https://raw.githubusercontent.com/projectpythia/pythia-config/main/pythia.yml
 project:
-  title: Project Pythia Cookbook Template
+  title: Project Pythia MPAS viewer Cookbook
   github: https://github.com/projectpythia/cookbook-template
   authors:
-    - name: The Project Pythia Community
-  copyright: '2024'
+    - name: The visualization of MPAS data
+  copyright: '2026'
   toc:
     - file: README.md
-    - title: Preamble
-      children:
-        - file: notebooks/how-to-cite.md
     - title: Introduction
       children:
-        - file: notebooks/notebook-template.ipynb
+        - file: notebooks/introduction.ipynb
+    - title: How to cite
+      children:
+        - file: notebooks/how-to-cite.md
   jupyter:
       binder:
         url: https://binder.projectpythia.org
